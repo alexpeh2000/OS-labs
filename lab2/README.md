@@ -5,9 +5,9 @@
 - Создаем виртуальную машину с характеристиками : 1gb ram, 1 cpu, 2 hdd - (sdd1, ssd2), SATA контройлер настроен на 4 порта.
 
 - Скриншот 1.1 - показывает нам настройку разметки дисков.
-![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part1/1.1.png)
+![Image alt](https://github.com/alexpeh2000/OS-labs/raw/master/lab2/screenshots/part1/1.1.png)
 - Скриншот 1.2 - первое разделение дисков.
-![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part1/1.2.png)
+![Image alt](https://github.com/alexpeh2000/OS-labs/raw/master/lab2/screenshots/part1/1.2.png)
 - Скриншот 1.3 - указание места для RAID.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part1/1.3.png)
 - Скриншот 1.4 - настроиваем RAID.
